@@ -1,0 +1,22 @@
+{
+  "name": "impilo-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jossiemiliza/Impilo-.git"
+  },
+  "author": "Jossie Miliza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jossiemiliza/Impilo-/issues"
+  },
+  "homepage": "https://github.com/jossiemiliza/Impilo-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
